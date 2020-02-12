@@ -17,5 +17,5 @@ Upon completion of the subject, students will be able to:
 ## Module Schedule
 
 * [Day 1: What are Data ?()
-** Discriptive Statistics
-** Visulaization
+  * Discriptive Statistics
+  * Visulaization
