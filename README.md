@@ -1,6 +1,8 @@
 # EDA
 ## Exploratory Data Analysis
 
+![EDA](https://drive.google.com/file/d/1PF3isxbmVlT_8ic42Wj8844YWHrrFpQ6/view?usp=sharing)
+
 This session presents the assumptions, principles, and techniques necessary to gain insight into data via EDA--exploratory data analysis.
 
 we will be covering the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data.
