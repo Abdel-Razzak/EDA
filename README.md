@@ -1,7 +1,7 @@
 # EDA
 ## Exploratory Data Analysis
 
-![EDA](https://drive.google.com/file/d/1PF3isxbmVlT_8ic42Wj8844YWHrrFpQ6/view?usp=sharing)
+![EDA](https://github.com/Abdel-Razzak/EDA/blob/master/images/hubwayclustering.png)
 
 This session presents the assumptions, principles, and techniques necessary to gain insight into data via EDA--exploratory data analysis.
 
