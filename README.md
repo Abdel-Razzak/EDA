@@ -30,5 +30,5 @@ Upon completion of the subject, students will be able to:
 * [SRS](https://drive.google.com/open?id=12y3tcYWjlKBtFdjT0gRV3wCOFDpu6bU_)
 * [Data Product Design](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)
 * [User Interview](https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8)
-* [user Interview HandBook][http://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf]
+* [user Interview HandBook](http://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf)
   
