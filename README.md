@@ -13,3 +13,9 @@ Upon completion of the subject, students will be able to:
 * Apply elementary statistical methods in analyzing business scenarios and problems;
 * Think critically and creatively about the uses and limitations of statistical methods in business;
 * Use statistical package and interpret the output, appreciate the applications of information technology for statistical analysis in busines
+
+## Module Schedule
+
+* [Day 1: What are Data ?()
+** Discriptive Statistics
+** Visulaization
