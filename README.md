@@ -16,7 +16,7 @@ Upon completion of the subject, students will be able to:
 
 ## Module Schedule
 
-* [Day 1: What are Data ?()
+* [Day 1: What are Data ?]()
   * Data Science Process
   * Discriptive Statistics  
 * [Day 2: Visulaization]()
