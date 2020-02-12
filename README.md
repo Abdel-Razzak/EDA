@@ -25,4 +25,10 @@ Upon completion of the subject, students will be able to:
 * ### Day 3:Getting our hand dirty:Pandas and Web Scraping [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day3.pdf)
 * ### Day 4: Statistical models [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day4.pdf)
 * ### Day 5:  Story Telling and Effective Communication [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day5.pdf)
+
+## Project Deliverables 
+* [SRS](https://drive.google.com/open?id=12y3tcYWjlKBtFdjT0gRV3wCOFDpu6bU_)
+* [Data Product Design](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)
+* [User Interview](https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8)
+* [user Interview HandBook][http://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf]
   
