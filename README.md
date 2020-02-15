@@ -18,7 +18,7 @@ Upon completion of the subject, students will be able to:
 
 ## Module Schedule
 
-* ### Day 1: What are Data ? [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day1.pdf), [let's practice](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/swing_states%20lab.ipynb)
+* ### Day 1: What are Data ? [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day1.pdf), [Let's Practice](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/swing_states%20lab.ipynb), [Test you skills](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/intro-py.ipynb)
   * Data Science Process
   * Discriptive Statistics  
 * ### Day 2: Visulaization [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day%202.pdf)
