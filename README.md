@@ -23,7 +23,7 @@ Upon completion of the subject, students will be able to:
   * Discriptive Statistics  
 * ### Day 2: Visulaization [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day%202.pdf), [EDA_Q](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/EDA_Q.ipynb)
 * ### Day 3:Getting our hand dirty:Pandas and Web Scraping [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day3.pdf)
-* ### Day 4: Statistical models [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day4.pdf)
+* ### Day 4: Statistical models [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day4.pdf), [lets practice](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/statistical%20model.ipynb)
 * ### Day 5:  Story Telling and Effective Communication [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day5.pdf)
 
 ## Project Deliverables 
