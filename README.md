@@ -26,6 +26,11 @@ Upon completion of the subject, students will be able to:
 * ### Day 4: Statistical models [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day4.pdf), [lets practice](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/statistical%20model.ipynb)
 * ### Day 5:  Story Telling and Effective Communication [Slides, PDF](https://github.com/Abdel-Razzak/EDA/blob/master/lectures/Day5.pdf)
 
+## Mini Projects
+* [mini project: Tempreture dataset](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/SEP.ipynb)
+* [mini project: crypto currency](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/SEPA.ipynb)
+* [mini project: hubway challenge](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/Lecture1_Notebook.ipynb)
+
 ## Project Deliverables 
 * [SRS](https://drive.google.com/open?id=12y3tcYWjlKBtFdjT0gRV3wCOFDpu6bU_)
 * [Data Product Design](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)
