@@ -28,9 +28,9 @@ Upon completion of the subject, students will be able to:
 
 ## Mini Projects
 * [mini project: Tempreture dataset](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/SEP.ipynb), 
-[Solution](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/notebook.ipynb)
+  * [Solution](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/notebook.ipynb)
 * [mini project: crypto currency](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/SEPA.ipynb),
-[Solution](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/notebook_crypto.ipynb)
+  * [Solution](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/notebook_crypto.ipynb)
 * [mini project: hubway challenge](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/Lecture1_Notebook.ipynb)
 
 ## Project Deliverables 
