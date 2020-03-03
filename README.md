@@ -32,6 +32,7 @@ Upon completion of the subject, students will be able to:
 * [mini project: crypto currency](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/SEPA.ipynb),
   * [Solution](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/notebook_crypto.ipynb)
 * [mini project: hubway challenge](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/Lecture1_Notebook.ipynb)
+* [Data Visulization](https://github.com/Abdel-Razzak/EDA/blob/master/Labs/edaviz.ipynb)
 
 ## Project Deliverables 
 * [SRS](https://drive.google.com/open?id=12y3tcYWjlKBtFdjT0gRV3wCOFDpu6bU_)
